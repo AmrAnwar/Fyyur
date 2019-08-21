@@ -1,5 +1,5 @@
-[ ] pep8
-[ ] code Arch
-[ ] delete print
-[ ] remove all TODO
-[ ] using json insdie of ARRAY
+[x] pep8 using pycodestyle *.py
+[x] code Arch
+[x] delete print
+[x] remove all TODO
+[x] using json insdie of ARRAY
