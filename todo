@@ -3,3 +3,4 @@
 [x] delete print
 [x] remove all TODO
 [x] using json insdie of ARRAY
+[x] (env) amranwar00 (master) starter_code $ export DYLD_LIBRARY_PATH=/Library/PostgreSQL/10/lib
