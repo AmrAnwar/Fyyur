@@ -1,6 +1,6 @@
 Fyyur
 -----
-- Finished this project as a mentor in Udacity
+- Made this project as a mentor in Udacity
 ![Fyyur](https://i.imgur.com/jctTTqM.png)
 
 
